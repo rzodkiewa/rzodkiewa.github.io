@@ -1,0 +1,22 @@
+body {
+    font-family: Roboto, 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+body {
+    text-align: center;
+    margin-top: 15vw;
+    display: block;
+}
+
+.text-main {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.text-secondary {
+    font-size: 35px;
+}
+
+.text-another {
+    font-size: 17px;
+}
